@@ -1,0 +1,1 @@
+<footer>Product Platform</footer>
